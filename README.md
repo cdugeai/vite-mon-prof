@@ -11,6 +11,9 @@ Dans un premier temps, ce dispositif prend la forme d'une **extension web** qui 
 | Pronote | :x:     | ![](https://img.shields.io/static/v1?label=dev&message=en-cours&color=green)            |
 | ENT     | :x:     | ![](https://img.shields.io/static/v1?label=dev&message=non-d%C3%A9marr%C3%A9&color=red) |
 
+![Apercu du plugin firefox](./src/plugin/firefox/doc/img/vite-mon-prof-plugin-firefox-readme.png "Apercu du plugin firefox")
+> Aperçu du plugin Firefox sur le système Pronote.
+
 Les données d'abscences sont centralisées puis des analyses sont menées pour réaliser une fiabilisation des informations et afficher des statistiques par départements, régions et académies.
 
 ## Développement
