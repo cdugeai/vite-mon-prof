@@ -18,3 +18,4 @@ Les données d'abscences sont centralisées puis des analyses sont menées pour 
 
 Pour importer l'extension dans votre navigateur Firefox, il faut suivre les instructions de la documentation Firefox ici: [Loading a temporary extension](https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#loading-a-temporary-extension).
 
+[Crédits](./credits.md)
