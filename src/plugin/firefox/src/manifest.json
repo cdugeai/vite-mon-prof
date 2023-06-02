@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "vite-mon-prof",
+  "version": "0.1",
+
+  "description": "Extension pour signaler une absence de professeur en collège et lycée.",
+
+  "icons": {
+    "48": "icons/presentation-48.svg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://demo.index-education.net/pronote/parent.html"],
+      "js": ["main.js"]
+    }
+  ]
+}
